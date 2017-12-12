@@ -1,6 +1,6 @@
 package JunitTest;
 
-import com.fanliyan.Application;
+import com.fanliyan.SpringDataTest.Application;
 import org.hamcrest.Matchers;
 import org.junit.Rule;
 import org.junit.Test;

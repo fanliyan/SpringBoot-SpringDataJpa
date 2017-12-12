@@ -1,6 +1,6 @@
-package com.fanliyan.SpringData.dao;
+package com.fanliyan.SpringDataTest.SpringData.dao;
 
-import com.fanliyan.SpringData.domain.User;
+import com.fanliyan.SpringDataTest.SpringData.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

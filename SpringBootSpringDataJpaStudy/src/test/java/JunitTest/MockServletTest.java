@@ -1,7 +1,7 @@
 package JunitTest;
 
-import com.fanliyan.Application;
-import com.fanliyan.SpringData.web.HellowController;
+import com.fanliyan.SpringDataTest.Application;
+import com.fanliyan.SpringDataTest.SpringData.web.HellowController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

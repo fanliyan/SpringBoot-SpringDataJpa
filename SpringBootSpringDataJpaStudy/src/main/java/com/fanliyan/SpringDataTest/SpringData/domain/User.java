@@ -1,4 +1,4 @@
-package com.fanliyan.SpringData.domain;
+package com.fanliyan.SpringDataTest.SpringData.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,8 +1,8 @@
 package SpringDataTest;
 
-import com.fanliyan.Application;
-import com.fanliyan.SpringData.dao.UserRepository;
-import com.fanliyan.SpringData.domain.User;
+import com.fanliyan.SpringDataTest.Application;
+import com.fanliyan.SpringDataTest.SpringData.dao.UserRepository;
+import com.fanliyan.SpringDataTest.SpringData.domain.User;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

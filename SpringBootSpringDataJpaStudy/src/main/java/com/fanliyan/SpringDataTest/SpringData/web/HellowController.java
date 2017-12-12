@@ -1,4 +1,4 @@
-package com.fanliyan.SpringData.web;
+package com.fanliyan.SpringDataTest.SpringData.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
