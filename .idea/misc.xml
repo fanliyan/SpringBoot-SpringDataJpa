@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/SpringBootSpringDataJpaStudy/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootSpringDataJpaoneToOne/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootSpringDataJpaManyToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSpringDataJpaManyToMany/pom.xml" />
       </list>
     </option>
   </component>

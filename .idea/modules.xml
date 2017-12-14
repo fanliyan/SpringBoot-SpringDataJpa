@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-SpringDataJpa.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-SpringDataJpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSpringDataJpaManyToMany/SpringBootSpringDataJpaManyToMany.iml" filepath="$PROJECT_DIR$/SpringBootSpringDataJpaManyToMany/SpringBootSpringDataJpaManyToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootSpringDataJpaManyToOne/SpringBootSpringDataJpaManyToOne.iml" filepath="$PROJECT_DIR$/SpringBootSpringDataJpaManyToOne/SpringBootSpringDataJpaManyToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootSpringDataJpaStudy/SpringBootSpringDataJpaStudy.iml" filepath="$PROJECT_DIR$/SpringBootSpringDataJpaStudy/SpringBootSpringDataJpaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootSpringDataJpaoneToOne/SpringBootSpringDataJpaoneToOne.iml" filepath="$PROJECT_DIR$/SpringBootSpringDataJpaoneToOne/SpringBootSpringDataJpaoneToOne.iml" />

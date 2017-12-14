@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringBootSpringDataJpaManyToMany" />
         <module name="SpringBootSpringDataJpaManyToOne" />
         <module name="SpringBootSpringDataJpaoneToOne" />
         <module name="SpringBootSpringDataJpaStudy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="SpringBootSpringDataJpaManyToMany" target="1.8" />
       <module name="SpringBootSpringDataJpaManyToOne" target="1.8" />
       <module name="SpringBootSpringDataJpaoneToOne" target="1.8" />
       <module name="SpringBootSpringDataJpaStudy" target="1.8" />
